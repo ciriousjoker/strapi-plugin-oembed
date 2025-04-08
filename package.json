@@ -34,7 +34,7 @@
     "twitter"
   ],
   "peerDependencies": {
-    "@strapi/strapi": "^4.4.0"
+    "@strapi/strapi": "^5.0.0"
   },
   "engines": {
     "node": ">=14.19.1 <=20.x.x",
